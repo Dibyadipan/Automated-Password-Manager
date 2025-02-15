@@ -2,3 +2,6 @@ venv/
 __pycache__/
 *.log
 
+users.json
+passwords.json
+
