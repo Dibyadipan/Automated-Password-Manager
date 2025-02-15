@@ -48,6 +48,7 @@ python main.py
 ```
 
 🤝 **Contributing**
+
 Want to improve this project? Contributions are welcome!
 
 Fork the repo
@@ -56,5 +57,6 @@ Commit changes (git commit -m "Added new feature")
 Push & submit a Pull Request 🎉
 
 📜 **License**
+
 This project is licensed under the MIT License – you're free to modify and use it as you wish!
 
